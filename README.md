@@ -5,17 +5,27 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+ 
+## 🎓 Projeto de estudo desenvolvido para composição de portfólio na área de
+Ciência e Análise de Dados. Todo o pipeline foi construído do zero com dados
+públicos reais, enfrentando e resolvendo problemas reais de qualidade de dados.
+
 
 ## 📌 Sobre o projeto
+Este projeto aplica técnicas de limpeza e transformação de dados (ETL) sobre o
+histórico completo do Campeonato Brasileiro Série A (2003–2024), utilizando
+Python e Pandas. Os dados tratados são armazenados em um banco de dados
+PostgreSQL e conectados a um dashboard interativo no Power BI.
+Objetivo de aprendizado: praticar o ciclo completo de um projeto de dados —
+coleta, limpeza, armazenamento, análise e visualização — simulando o dia a dia
+de um analista de dados.
+Habilidades praticadas:
 
-Este projeto aplica técnicas de limpeza e transformação de dados (ETL)
-sobre o histórico completo do Campeonato Brasileiro Série A (2003–2024),
-utilizando Python e Pandas. Os dados tratados são armazenados em um banco
-de dados PostgreSQL e conectados a um dashboard interativo no Power BI.
-
-**Objetivo:** demonstrar habilidades de qualidade de dados, pipeline ETL
-e visualização — competências centrais para um analista de dados.
-
+Limpeza e transformação de dados com Pandas
+Construção de pipeline ETL em Python
+Modelagem e consultas em banco de dados relacional (PostgreSQL)
+Criação de dashboard com métricas de negócio no Power BI
+Versionamento de projeto com Git e GitHub
 ---
 
 ## 🗄️ Arquitetura do projeto
