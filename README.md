@@ -77,11 +77,10 @@ brasileirao-etl/
 
 ## 📊 Dashboard Power BI
 
-> 🔗 Link do dashboard: *em breve*
+<img width="1319" height="726" alt="image" src="https://github.com/user-attachments/assets/8bcb3d6b-4cd3-4e94-9aaa-1ab8a7bc6f8f" />
+<img width="1395" height="757" alt="image" src="https://github.com/user-attachments/assets/0de7b40a-6c9c-4041-b4f7-3b2a80120552" />
+<img width="1424" height="707" alt="image" src="https://github.com/user-attachments/assets/bd6256c0-68e9-470f-b6f1-bc3876ed8a09" />
 
-<!-- Quando publicar no Power BI Service, substitua o texto acima pelo link:
-> Acesse o dashboard interativo: [🔗 Ver no Power BI](COLE_SEU_LINK_AQUI)
--->
 
 <!-- Após tirar o print do dashboard, salve como 'dashboard_preview.png'
      na pasta do projeto e descomente a linha abaixo:
@@ -143,12 +142,3 @@ SELECT resultado, COUNT(*) AS total,
 FROM partidas
 GROUP BY resultado;
 ```
-
----
-
-## 👤 Autor
-
-Feito por **[Seu Nome]**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/SEU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-black)](https://github.com/SEU_USUARIO)
