@@ -6,8 +6,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
  
-## 🎓 Projeto de estudo desenvolvido para composição de portfólio na área de
-Ciência e Análise de Dados. Todo o pipeline foi construído do zero com dados
+## 🎓 Projeto de estudo desenvolvido para composição de portfólio na área de Ciência e Análise de Dados. Todo o pipeline foi construído do zero com dados
 públicos reais, enfrentando e resolvendo problemas reais de qualidade de dados.
 
 
